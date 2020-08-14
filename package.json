@@ -28,6 +28,9 @@
   "dependencies": {
     "lodash": "^4.0.1"
   },
+  "peerDependencies": {
+    "react": "*"
+  },
   "devDependencies": {
     "@case/eslint-config": "^0.1.4",
     "babel": "^6.0.15",
